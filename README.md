@@ -3,7 +3,7 @@
 
 ## How to use ?
 - Just include fancycube.js  and cubes.css in your project and  call  this function after page rendered.
-- If you are not using jquery you can write it inside <script> tag just before body in html.
+- If you are not using jquery you can write it inside `script` tag just before body in html.
 - If you are using jquery just write inside document ready
 
 new fancyCubes({
