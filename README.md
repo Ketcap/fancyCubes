@@ -6,7 +6,6 @@
 - If you are not using jquery you can write it inside <script> tag just before body in html.
 - If you are using jquery just write inside document ready
 
-
 new fancyCubes({
     element:'main',
     closeElement:'main',
