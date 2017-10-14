@@ -1,3 +1,7 @@
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tpPix4ZmzY6dhNh7SnGSvHPH/Ketcap/fancyCubes'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tpPix4ZmzY6dhNh7SnGSvHPH/Ketcap/fancyCubes.svg' />
+</a>
+
 # FancyCubes New Way to Reveal Elements or Pictures
 [Demo Gif](https://github.com/Ketcap/fancyCubes/blob/master/fancycube.gif)
 
