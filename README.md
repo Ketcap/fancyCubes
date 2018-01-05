@@ -1,5 +1,4 @@
 
-
 # FancyCubes New Way to Reveal Elements or Pictures
 [Demo Gif](https://github.com/Ketcap/fancyCubes/blob/master/fancycube.gif)
 
